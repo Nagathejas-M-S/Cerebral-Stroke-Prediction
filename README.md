@@ -102,3 +102,8 @@ Cerebral stroke, if not detected early, can have fatal consequences. This projec
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nagathejas-M-S/Cerebral-Stroke-Prediction.git
+
+
+2. Run the Python notebook file:
+   ```bash
+   prediction.ipynb
